@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy<2
+numpy
 requests
 scikit-learn
 sentence-transformers
