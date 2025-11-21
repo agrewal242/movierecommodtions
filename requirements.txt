@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+numpy<2
+scikit-learn
+sentence-transformers
+matplotlib
+torch==2.2.0
