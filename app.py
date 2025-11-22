@@ -119,8 +119,8 @@ def search_by_plot(plot_query, movies_df, top_n=5):
 # -----------------------------
 # STREAMLIT APP
 # -----------------------------
-st.set_page_config(page_title="Movie Recommender Pro", layout="wide")
-st.title("🎬 Movie Recommendation System")
+st.set_page_config(page_title="MovieMatch+", layout="wide")
+st.title("🎬 MovieMatch+")
 
 # Sidebar filters
 st.sidebar.header("Filters")
